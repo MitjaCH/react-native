@@ -18,12 +18,11 @@ The project directory is structured as follows:
 
 ```
 react-native/
-├── DEV/
-│   ├── .git/
-│   ├── List/
-│   ├── Navigation/
-│   │   ├── Bottom-Navigation/
-│   │   └── Stack-Navigation/
+├── .git/
+├── List/
+├── Navigation/
+    │   ├── Bottom-Navigation/
+    │   └── Stack-Navigation/
 ```
 
 ## Installation
@@ -34,7 +33,7 @@ To get started with the project, you need to have Node.js and npm installed. The
 
    ```sh
    git clone <repository-url>
-   cd react-native/DEV/Navigation/Bottom-Navigation
+   cd react-native/Navigation/Bottom-Navigation
    ```
 
 2. Install the dependencies:
@@ -64,7 +63,7 @@ To start the Bottom Navigation example:
 1. Navigate to the directory:
 
    ```sh
-   cd react-native/DEV/Navigation/Bottom-Navigation
+   cd react-native/Navigation/Bottom-Navigation
    ```
 
 2. Start the app:
@@ -82,7 +81,7 @@ To start the Stack Navigation example:
 1. Navigate to the directory:
 
    ```sh
-   cd react-native/DEV/Navigation/Stack-Navigation
+   cd react-native/Navigation/Stack-Navigation
    ```
 
 2. Start the app:
